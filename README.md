@@ -1,6 +1,6 @@
 # Reverse Image Search Tool
 
-Welcome to **ReverseImageSearch.pro** – a simple, fast, and reliable reverse image search tool that helps you uncover the story behind any image. Whether you're trying to find the source of an image, verify its authenticity, or discover similar pictures, our tool is here to make your life easier.  [Reverse Image Search Tool](https://reverseimagesearch.pro/)
+Welcome to **ReverseImageSearch.pro** – a simple, fast, and reliable reverse image search tool that helps you uncover the story behind any image. Whether you're trying to find the source of an image, verify its authenticity, or discover similar pictures, our tool is here to make your life easier.  [Reverse Image Search](https://reverseimagesearch.pro/)
 
 ## Features
 
